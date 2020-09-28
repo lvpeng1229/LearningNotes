@@ -1,7 +1,4 @@
-# 前言
-持续收集比较常见的开源库，特此记录。
-
-#  目录
+##  目录
 - 一、基本控件 —— TextView、EditText、ImageView、Button、Spinner、CheckBox、Seekbar、RatingBar、Toast、RecyclerView、日历、时钟、Webview、ScrollView、ViewPager、WheelPicker、导航栏
 
 - 二、功能相关 —— 图片选择、图片加载、音视频、刷新控件、动画、轮播图、权限、二维码、新手引导、轻存储、数据库、图表、菜单、手势关闭、事件处理、换肤、状态栏、颜色选择器、布局相关、加载反馈、屏幕适配、其他
