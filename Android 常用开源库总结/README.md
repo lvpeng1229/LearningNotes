@@ -420,6 +420,12 @@ ImmersionBar	| 	| [链接](https://github.com/gyf-dev/ImmersionBar)
 HoloColorPicker	   |    | [链接](https://github.com/LarsWerkman/HoloColorPicker)
 android-ColorPickerPreference		| 	| [链接](https://github.com/attenzione/android-ColorPickerPreference)
 
+## 指示器
+名称 | 简述 | 链接
+---|---|---
+MagicIndicator		 |   强大、可定制、易扩展的 ViewPager 指示器框架。	    |  [链接](https://github.com/hackware1993/MagicIndicator)
+dotsindicator			 |   视图页导航点指示器（2019-03-27 新增）	|  [链接](https://github.com/tommybuonomo/dotsindicator)
+
 ## 布局相关
 名称 | 简述 | 链接
 ---|---|---
@@ -453,5 +459,178 @@ AndroidAutoSize	   |  今日头条屏幕适配方案终极版	  | [链接](https
 AndroidPdfViewer	   |  pdf 加载	  | [链接](https://github.com/barteksc/AndroidPdfViewer)
 android-job		| 用于后台运行延迟的作业		| [链接](https://github.com/evernote/android-job)
 	
-	
+# 三、网络相关
+## HTTP
+名称 | 简述 | 链接
+---|---|---
+okhttp-RxHttp |    文档很全的网络请求框架（推荐）   |  [链接](https://github.com/liujingxing/okhttp-RxHttp)
+RxEasyHttp |  基于RxJava2+Retrofit2实现简单易用的网络请求框架     |  [链接](https://github.com/zhou-you/RxEasyHttp)
+Novate		| 基于Retrofit和RxJava打造的链式网络库		| [链接](https://github.com/Tamicer/Novate)
+okhttp-OkGo		| 基于okhttp的标准RESTful风格的网络框架		| [链接](https://github.com/jeasonlzy/okhttp-OkGo)
+NoHttp		| 基于okhttp的标准RESTful风格的网络框架		| [链接](https://github.com/yanzhenjie/NoHttp)
+Kalle |   Android platform's Http client.        |   [链接](https://github.com/yanzhenjie/Kalle)
+afinal |  Afinal 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架 |   [链接](https://github.com/yangfuhai/afinal)
+Fast-Android-Networking |  Fast Android Networking Library is a powerful library  |  [链接](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
 
+## JSON
+名称 | 简述 | 链接
+---|---|---
+gson |       |  [链接](https://github.com/google/gson)
+fastjson	 |       |  [链接](https://github.com/alibaba/fastjson)
+
+
+## 下载、上传
+名称 | 简述 | 链接
+---|---|---
+MultiThreadDownloader	 |     多线程下载	  |  [链接](https://github.com/AigeStudio/MultiThreadDownloader)
+android-upload-service	 |  文件上传	     |  [链接](https://github.com/gotev/android-upload-service)
+Aria	 |    下载	   |  [链接](https://github.com/AriaLyy/Aria)
+FileDownloader	 |     文件下载引擎，稳定、高效、灵活、简单易用	  |  [链接](https://github.com/lingochamp/FileDownloader)
+
+## RX
+名称 | 简述 | 链接
+---|---|---
+RxAndroid	 |  对RxJava在Android上的扩展	     |  [链接](https://github.com/ReactiveX/RxAndroid)
+RxJava	 |       |  [链接](https://github.com/ReactiveX/RxJava)
+RxCache	 |     专门为Retrifit打造的缓存库	  |  [链接](https://github.com/VictorAlbertos/RxCache)
+ReactiveNetwork	 |    检测网络状态	   |  [链接](https://github.com/pwittchen/ReactiveNetwork)
+RxLifecycle	 |   管理rx的生命周期	    |  [链接](https://github.com/trello/RxLifecycle)
+AutoDispose	 |    rx 工具类	   |  [链接](https://github.com/uber/AutoDispose)
+
+# 四、自定义View
+
+## 蛛网图
+名称 | 简述 | 链接
+---|---|---
+SpiderPlotView	 |       |  [链接](https://github.com/LongMaoC/SpiderPlotView)
+RadarChartView	 |       |  [链接](https://github.com/DmitriyZaitsev/RadarChartView)
+
+## 翻书效果
+名称 | 简述 | 链接
+---|---|---
+android-PageFlip	 |       |  [链接](https://github.com/eschao/android-PageFlip)
+android-flip	 |   类似 Flipboard 翻转动画	    |  [链接](https://github.com/openaphid/android-flip)
+
+
+## 望远镜效果（部分高亮）
+名称 | 简述 | 链接
+---|---|---
+ShowcaseView	 |       |  [链接](https://github.com/amlcurran/ShowcaseView)
+Spotlight	 |       |  [链接](https://github.com/TakuSemba/Spotlight)
+
+## 选座效果
+名称 | 简述 | 链接
+---|---|---
+SeatTable	 |    电影选座效果	   |  [链接](https://github.com/qifengdeqingchen/SeatTable)
+FlightSeat	 |     飞机票选座效果	  |  [链接](https://github.com/ldoublem/FlightSeat)
+ 
+ 
+## 其他
+名称 | 简述 | 链接
+---|---|---
+PatternLockView	 |  图案解锁     |  [链接](https://github.com/aritraroy/PatternLockView)  
+GoodView	 |   点赞效果	    |  [链接](https://github.com/venshine/GoodView)
+Android-PullLayout	|   仿uc下拉效果	    |  [链接](https://github.com/BlueMor/Android-PullLayout)
+AlphaIndicatorView|    仿微信底部TAB 滑动效果	   |  [链接](https://github.com/jeasonlzy/AlphaIndicatorView)
+RadarView	|   高仿360检测评分动画	    |  [链接](https://github.com/Blowing/RadarView)
+CardStackView	|  三种炫酷的列表卡片滑动动画	     |  [链接](https://github.com/loopeer/CardStackView)
+TapTargetView	|  难于简述，还是自己看效果图吧	     |  [链接](https://github.com/KeepSafe/TapTargetView)
+CoordinatorTabLayout	|  可快速实现TabLayout与CoordinatorLayout相结合的样式|  [链接](https://github.com/hugeterry/CoordinatorTabLayout)
+ShimmerLayout	|   扫光效果	    |  [链接](https://github.com/team-supercharge/ShimmerLayout)
+PhotoMovie	|   仿抖音照片电影	    |  [链接](https://github.com/yellowcath/PhotoMovie)
+MyCardView	|   一个支持自定义阴影颜色的 CardView （2019-03-27 新增）	    |  [链接](https://github.com/WangJie0822/MyCardView)
+ 
+## 测试
+名称 | 简述 | 链接
+---|---|---
+Matrix		 |  腾讯出品，通过各种性能监控方案    |  [链接](https://github.com/Tencent/matrix)   
+pandora			 | 一款无需ROOT、可以直接在应用内查看和修改包括网络...	   |  [链接](https://github.com/whataa/pandora)   
+ArgusAPM			 |  360移动端产品使用的可视化性能监控平台	     |  [链接](https://github.com/Qihoo360/ArgusAPM)   
+AndroidPerformanceMonitor			 |  非侵入式的性能监控组件     |  [链接](https://github.com/markzhai/AndroidPerformanceMonitor)   
+UETool			 |  设计师、程序员、测试都可以使用的调试工具。	 |  [链接](https://github.com/eleme/UETool)   
+robolectric			 |  单元测试 （2019-03-29 新增）	 |  [链接](https://github.com/robolectric/robolectric)   
+
+# 五、其他
+## 工具类
+名称 | 简述 | 链接
+---|---|---
+utilcodex		 |   一个android 工具库，可以根据需求copy代码就好，	    |  [链接](https://blog.csdn.net/wqbs369/article/details/89706319)
+AndroidUtilCode		 |   强大易用的安卓工具类库	    |  [链接](https://github.com/Blankj/AndroidUtilCode)  
+RxTools		 | Android开发人员不得不收集的工具类集合	      |  [链接](https://github.com/Tamsiree/RxTool)  
+butterknife		 |   利用 annotation 帮你快速完成 View 的初始化，减少代码	|  [链接](https://github.com/JakeWharton/butterknife)  
+
+
+## 热修复
+名称 | 简述 | 链接
+---|---|---
+tinker		 |  它支持dex、库和资源更新，无需重新安装apk	     |  [链接](https://github.com/Tencent/tinker)  
+Bugly Android热更新		 |    它封装了tinker是腾讯团队维护的，完全免费！	   |  [链接]()  
+Nuwa		 |       |  [链接](https://github.com/jasonross/Nuwa)  
+AndFix		 |   阿里的方案	    |  [链接](https://github.com/alibaba/AndFix)  
+VirtualXposed		 |       |  [链接](https://github.com/android-hacker/VirtualXposed)    
+ 
+类别 | 成员
+---|---
+阿里系 |  AndFix、Dexposed、阿里百川、Sophix
+腾讯系	 | 微信的Tinker、QQ空间的超级补丁、手机QQ的QFix
+知名公司 |  美团的Robust、饿了么的Amigo、美丽说蘑菇街的Aceso
+其他 |  RocooFix、Nuwa、AnoleFix
+
+部分热修复框架的对比如下表所示。
+			
+特性|AndFix|Tinker/Amigo|QQ空间|Robust/Aceso
+---|---|---|---|---
+即时生效	|是	|否	|否	|是
+方法替换|	是|	是	|是	|是
+类替换	|否|	是|	是|	否
+类结构修改	|否|	是|	否	|否
+资源替换|	否|	是|	是|	否
+so替换|	否|	是|	否|	否
+支持gradle	|否	|是	|否	|否
+支持ART	|是	|是	|是	|是
+支持Android7.0|	是	|是	|是	|是
+
+## 插件化
+名称 | 简述 | 链接
+---|---|---
+VirtualAPK	 |    滴滴出品   |  [链接](https://github.com/didi/VirtualAPK)  
+RePlugin |   360出品，RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案 |  [链接](https://github.com/Qihoo360/RePlugin)  
+Shadow	 |   Shadow是一个腾讯自主研发的Android插件框架    |  [链接]()  
+ 
+## 签名打包
+名称 | 简述 | 链接
+---|---|---
+walle		 |  美团出品： Android Signature V2 Scheme签名下的新一代渠道包打包神器	|  [链接](https://github.com/Meituan-Dianping/walle)  
+packer-ng-plugin	 |   100个渠道包只需要10秒钟  |  [链接](https://github.com/mcxiaoke/packer-ng-plugin)  
+
+## 图片压缩
+名称 | 简述 | 链接
+---|---|---
+Luban		 |   图片压缩    |  [链接](https://github.com/Curzibn/Luban)  
+Compressor			 |   图片压缩    |  [链接](https://github.com/zetbaitsu/Compressor)  
+CompressHelper			 |   压缩，图片压缩，压缩Bitmap    |  [链接](https://github.com/nanchen2251/CompressHelper)  
+ 
+## 其他
+名称 | 简述 | 链接
+---|---|---
+Apktool		 |   反编译工具    |  [链接](https://github.com/iBotPeaches/Apktool)  
+dagger2		 |   依赖注入，适用于 Android 和 Java	    |  [链接](https://github.com/google/dagger)  
+Atlas		 |    容器 一个运行于Android系统上的一个容器化框架	  |  [链接]()  
+ARouter		 |    路由 帮助 Android App 进行组件化改造的路由框架	  |  [链接](https://github.com/alibaba/ARouter)  
+logger		 |     日志  |  [链接](https://github.com/orhanobut/logger)  
+leakcanary		 |    内存泄漏检测   |  [链接](https://github.com/square/leakcanary) 
+X2C		 |    布局优化（在编译生成APK期间，将需要翻译的layout翻译生成对应的java文件）   |  [链接](https://github.com/iReaderAndroid/X2C)  
+JustWeTools		 |   画图    |  [链接](https://github.com/lfkdsk/JustWeTools)  
+cameraview		 |    轻松集成camera	   |  [链接](https://github.com/google/cameraview)  
+camerakit-android |    CameraKit helps you add reliable camera to your app quickly |  [链接](https://github.com/CameraKit/camerakit-android)  
+richeditor-android		 |   富文本编辑器    |  [链接](https://github.com/wasabeef/richeditor-android)  
+Android-Rich-text-Editor		 |   富文本编辑器    |  [链接](https://github.com/chinalwb/Android-Rich-text-Editor)  
+Calligraphy		 |   自定义字体加载    |  [链接](https://github.com/chrisjenx/Calligraphy)
+conceal		 |  文件加密     |  [链接](https://github.com/facebookarchive/conceal)  
+XhsEmoticonsKeyboard		 |   表情包	  最良心的开源表情键盘解决方案。  |  [链接](https://github.com/w446108264/XhsEmoticonsKeyboard)  
+android-gpuimage-plus		 |    相机滤镜   |  [链接](https://github.com/wysaid/android-gpuimage-plus)   
+EasyPR4Android		 |  车牌识别     |  [链接](https://github.com/imistyrain/EasyPR4Android)   
+JKeyboardPanelSwitch		 |   键盘冲突    |  [链接](https://github.com/Jacksgong/JKeyboardPanelSwitch)   
+Android-BLE		 |  蓝牙     |  [链接](https://github.com/aicareles/Android-BLE)   
+Android-Iconics		 |   图标	    |  [链接](https://github.com/mikepenz/Android-Iconics)   
+smartTable		 |    自动生成表格框架（2019-03-27 新增  |  [链接](https://github.com/huangyanbin/smartTable)   
