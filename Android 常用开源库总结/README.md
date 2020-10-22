@@ -558,7 +558,8 @@ utilcodex		 |   一个android 工具库，可以根据需求copy代码就好，	
 AndroidUtilCode		 |   强大易用的安卓工具类库	    |  [链接](https://github.com/Blankj/AndroidUtilCode)  
 RxTools		 | Android开发人员不得不收集的工具类集合	      |  [链接](https://github.com/Tamsiree/RxTool)  
 butterknife		 |   利用 annotation 帮你快速完成 View 的初始化，减少代码	|  [链接](https://github.com/JakeWharton/butterknife)  
-
+logger		 |     日志  |  [链接](https://github.com/orhanobut/logger)  
+XLog		 |     简单、美观、强大、可扩展的 Android 和 Java 日志库  |  [链接](https://github.com/elvishew/XLog/blob/master/README_ZH.md)  
 
 ## 热修复
 名称 | 简述 | 链接
@@ -617,7 +618,6 @@ Apktool		 |   反编译工具    |  [链接](https://github.com/iBotPeaches/Apkt
 dagger2		 |   依赖注入，适用于 Android 和 Java	    |  [链接](https://github.com/google/dagger)  
 Atlas		 |    容器 一个运行于Android系统上的一个容器化框架	  |  [链接]()  
 ARouter		 |    路由 帮助 Android App 进行组件化改造的路由框架	  |  [链接](https://github.com/alibaba/ARouter)  
-logger		 |     日志  |  [链接](https://github.com/orhanobut/logger)  
 leakcanary		 |    内存泄漏检测   |  [链接](https://github.com/square/leakcanary) 
 X2C		 |    布局优化（在编译生成APK期间，将需要翻译的layout翻译生成对应的java文件）   |  [链接](https://github.com/iReaderAndroid/X2C)  
 JustWeTools		 |   画图    |  [链接](https://github.com/lfkdsk/JustWeTools)  
