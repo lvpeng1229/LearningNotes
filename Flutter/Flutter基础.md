@@ -1,2 +1,1 @@
-# LearningNotes
-知识点的总结和梳理
+## [Flutter快学快用24讲](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=251#/content)
