@@ -27,6 +27,10 @@
 
 ## 视频教程
 #### [Kotlin开发AI语音助手App(慕课网)](https://coding.imooc.com/class/438.html)
+#### [Kotlin实战电商APP(B站)](https://www.bilibili.com/video/BV1654y1X7Jo)
+#### [技术胖 Flutter基础视频教程(B站)](https://www.bilibili.com/video/BV1Vt41137B4)
+#### [技术胖 Flutter20个小实例免费视频教程(B站)](https://www.bilibili.com/video/BV1kt411B7mu)
+#### [亢少军 新版 Flutter 零基础到独立APP开发项目实战（完）(B站)](https://www.bilibili.com/video/BV1JJ411S7ae)
 #### [实战企业级项目 践行App重构之路(慕课网)](https://coding.imooc.com/class/406.html)
 #### [Jetpack开发短视频应用实战(慕课网)](https://coding.imooc.com/class/402.html)
 #### [新版Kotlin从入门到精通(慕课网)](https://coding.imooc.com/class/398.html)
@@ -42,13 +46,49 @@
 #### [玩转Git三剑客(极客时间)](https://time.geekbang.org/course/intro/100021601)
 #### [快速上手Kotlin开发(极客时间)](https://time.geekbang.org/course/intro/100009801)
 #### [算法面试通关40讲(极客时间)](https://time.geekbang.org/course/intro/100019701)
+#### [Linux从入门到精通（小白必备全套视频）经典版！(腾讯课堂)](https://ke.qq.com/course/349736)
+#### [Java多线程与高并发编程【马士兵教育】(腾讯课堂)](https://ke.qq.com/course/446547)
+#### [最新PS教程 photoshop2019CC 零基础到精通全套(腾讯课堂)](https://ke.qq.com/course/389731)
+#### [PS/PS系统入门/基础工具/基础进阶/海报实战(腾讯课堂)](https://ke.qq.com/course/440424)
 
 
+## 爱好
+#### [乔伊重金属主奏电吉他教学（第一册1—3章）八零摇滚课堂 (B站)](https://www.bilibili.com/video/BV1ZJ411e77b)
+
+#### [乔伊重金属节奏电吉他教学（第一册1—6章） 八零摇滚课堂 (B站)](https://www.bilibili.com/video/BV1bx411H768?from=search&seid=12967311867485259892)
+
+#### [乔伊重金属节奏电吉他教学（第二册）练习示范合集 八零摇滚课堂 (B站)](https://www.bilibili.com/video/BV1ak4y1k7kU)
+
+#### [电吉他基本功训练 基础到进阶吉他教程 每周一练](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5fb12e8duxxxZV&id=583939814975&_u=ok1ieee4b77)
+
+#### [电吉他音阶系统训练秘籍吉他视频教程](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5fb12e8duxxxZV&id=597181192255&_u=ok1ieee434b)
+
+#### [电吉他经典摇滚实战训练秘籍吉他视频教程](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5fb12e8duxxxZV&id=589155247482&_u=ok1ieee4de8)
+
+#### [电吉他音色调节与录音教程吉他视频教程](https://ke.qq.com/course/234009)
+
+#### [来玩吉他 乐理课程(B站)](https://space.bilibili.com/285766656/channel/detail?cid=90351)
+
+#### [流行钢琴即兴伴奏教学(腾讯课堂)](https://ke.qq.com/course/470622)
+
+#### [音乐制作（编曲）零基础新手入门教程(腾讯课堂)](https://ke.qq.com/course/443401)
 
 
+#### [一看就懂的实用吉他乐理教程 (米熊)]()
 
+#### [Breaking The Law 八零摇滚课堂 (米熊)]()
 
+#### [I Hate Myself For Loving You (米熊)]()
 
+#### [灌篮高手-直到世界尽头 (米熊)]()
+
+#### [灌篮高手-好想大声说爱你 (米熊)]()
+
+#### [魂斗罗 (米熊)]()
+
+#### [哆啦A梦 (米熊)]()
+
+#### [樱桃小丸子 (米熊)]()
 
 
 
