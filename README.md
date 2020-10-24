@@ -9,3 +9,12 @@
 #### [Vue.js 3.0 核心源码解析(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=326#/content)
 #### [Go 微服务实战 38 讲(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=287#/content)
 #### [腾讯敏捷项目管理实战(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=274#/content)
+
+#### [算法面试通关40讲(极客时间)](https://time.geekbang.org/course/intro/100019701)
+#### [数据结构与算法之美(极客时间)](https://time.geekbang.org/column/article/39922)
+#### [Android开发高手课(极客时间)](https://time.geekbang.org/column/article/81202)
+#### [玩转Git三剑客(极客时间)](https://time.geekbang.org/course/intro/100021601)
+#### [快速上手Kotlin开发(极客时间)](https://time.geekbang.org/course/intro/100009801)
+#### [面试现场(极客时间)](https://time.geekbang.org/column/article/81990)
+#### [趣谈网络协议)](https://time.geekbang.org/column/article/9688)
+#### [Java核心技术面试精讲)](https://time.geekbang.org/column/article/9266)
