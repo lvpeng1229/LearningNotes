@@ -11,6 +11,7 @@
 #### [重学数据结构与算法(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=185#/content)
 #### [300分钟搞定数据结构与算法(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=3#/content)
 #### [数据结构与算法之美(极客时间)](https://time.geekbang.org/column/article/39922)
+#### [在PPT动画中学算法(小专栏)](https://xiaozhuanlan.com/LeetCodeGIF)
 #### [趣谈网络协议)](https://time.geekbang.org/column/article/9688)
 #### [Git 原理详解及实用指南(掘金)](https://juejin.im/book/6844733697996881928)
 #### [面试现场(极客时间)](https://time.geekbang.org/column/article/81990)
@@ -19,8 +20,12 @@
 #### [Vue.js 3.0 核心源码解析(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=326#/content)
 #### [Go 微服务实战 38 讲(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=287#/content)
 #### [腾讯敏捷项目管理实战(拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=274#/content)
+#### [程序员聊设计(小专栏)](https://xiaozhuanlan.com/larry)
+#### [Android 面试指南2019(小专栏)](https://xiaozhuanlan.com/android-interview)
+#### [网易 UEDC(小专栏)](https://xiaozhuanlan.com/UEDC)
+#### [BaronTalk(小专栏)](https://xiaozhuanlan.com/barontalk)
 
-##视频教程
+## 视频教程
 #### [Kotlin开发AI语音助手App(慕课网)](https://coding.imooc.com/class/438.html)
 #### [实战企业级项目 践行App重构之路(慕课网)](https://coding.imooc.com/class/406.html)
 #### [Jetpack开发短视频应用实战(慕课网)](https://coding.imooc.com/class/402.html)
