@@ -1,4 +1,4 @@
-![image](https://github.com/lvpeng1229/LearningNotes/Image/android-029.jpg)
+![image](https://github.com/lvpeng1229/LearningNotes/tree/master/Image/android-029.jpg)
 
 # 学习专栏
 ## [设计模式之美(极客时间)](http://note.youdao.com/noteshare?id=e0037556c739518ffe16418d09471e46)
