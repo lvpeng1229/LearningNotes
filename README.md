@@ -1,4 +1,5 @@
 # 学习专栏
+## [设计模式之美(极客时间)](http://note.youdao.com/noteshare?id=e0037556c739518ffe16418d09471e46)
 ## [Android 工程师进阶 34 讲 (拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=67#/content)
 ## [Android开发高手课(极客时间)](https://time.geekbang.org/column/article/81202)
 ## [Android 进阶：基于 Kotlin 的 Android App 开发实践(掘金)](https://juejin.im/book/6844733722583891976)
