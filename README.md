@@ -54,7 +54,7 @@
 
 
 # 爱好
-#### [乔伊重金属主奏电吉他教学（第一册1—3章）八零摇滚课堂 (B站)](https://www.bilibili.com/video/BV1ZJ411e77b)
+## [乔伊重金属主奏电吉他教学（第一册1—3章）八零摇滚课堂 (B站)](https://www.bilibili.com/video/BV1ZJ411e77b)
 
 ## [乔伊重金属节奏电吉他教学（第一册1—6章） 八零摇滚课堂 (B站)](https://www.bilibili.com/video/BV1bx411H768?from=search&seid=12967311867485259892)
 
