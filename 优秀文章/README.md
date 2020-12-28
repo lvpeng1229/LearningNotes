@@ -575,7 +575,7 @@
 #### [Snailclimb/JavaGuide](https://github.com/SusionSuc/AdvancedAndroid)
 #### [android-exchange/Android-Interview](https://github.com/android-exchange/Android-Interview)
 #### [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
-#### [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes
+#### [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 #### [stormzhang/android-interview-questions-cn](https://github.com/stormzhang/android-interview-questions-cn)
 #### [yangkun19921001/Blog（DevYK](https://github.com/yangkun19921001)
 #### [刘望舒](http://liuwangshu.cn/system/)
@@ -616,7 +616,7 @@
 #### [面试复习——Android工程师之算法基础（Hensen_ ）](https://blog.csdn.net/qq_30379689/article/details/76851248)
 #### [面试复习——Android工程师之设计模式（Hensen_ ）](https://blog.csdn.net/qq_30379689/article/details/77349786)
 #### [2019 Android 高级面试题总结（ code小生）](https://mp.weixin.qq.com/s/hzCBLwMY04aPWrcTlJ2uPQ)
-#### [Android开发面试经—常见面试官提问Android题（ code小生）(http://mp.weixin.qq.com/s?__biz=MzIxNzU1Nzk3OQ==&mid=2247487411&idx=1&sn=b72ce32a6e57841c132f7b0510e9fbbf&chksm=97f6b107a0813811c5fc7ba7117d4677fb28915cd75d8f80d005f1f1233e6ff97925437d039a&scene=21#wechat_redirect)
+#### [Android开发面试经—常见面试官提问Android题（code小生）](http://mp.weixin.qq.com/s?__biz=MzIxNzU1Nzk3OQ==&mid=2247487411&idx=1&sn=b72ce32a6e57841c132f7b0510e9fbbf&chksm=97f6b107a0813811c5fc7ba7117d4677fb28915cd75d8f80d005f1f1233e6ff97925437d039a&scene=21#wechat_redirect)
 #### [Android面试之Java基础（ 秦子帅）](https://mp.weixin.qq.com/s?__biz=MzIyNTY4NjU0OQ==&mid=2247484901&idx=1&sn=a13101b944894ef8b1bbc3d5debbb61e&chksm=e87aa09fdf0d2989f068185f66e72f9fa77a2a1a44ca8c70640f6436b7eec15cc403ddaa2e25&scene=21#wechat_redirect)
 #### [面试相关之 JVM &设计模式（ code小生）](https://mp.weixin.qq.com/s/dj0wP2dmiY-Ha7CJeNIj6w)
 #### [面试必备：数组和字符串（ 玉刚说）](https://mp.weixin.qq.com/s/8ZC6fOvhiHHN09ZYwGQXGQ)
