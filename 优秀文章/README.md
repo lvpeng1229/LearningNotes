@@ -711,7 +711,7 @@
 #### [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存？](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=403263974&idx=1&sn=b0315addbc47f3c38e65d9c633a12cd6&scene=21#wechat_redirect)
 
 ---
-###腾讯音乐技术团队
+### 腾讯音乐技术团队
 #### [RxJava的一些入门学习分享](https://mp.weixin.qq.com/s/I9XN6fh1C0uuovzd_iBDhw)
 #### [支持跨进程单例的一种实现方案](https://mp.weixin.qq.com/s/fKWB2EWd1wHcJAOwCLo1kw)
 #### [老司机教你“飙”EventBus3](https://mp.weixin.qq.com/s/Nn4-XXpiBdIcBRUBIPzJDQ)
@@ -752,7 +752,7 @@
 #### [QQ 音乐 Android 吃 Pie 之路](https://mp.weixin.qq.com/s/GHYXOgbVL17d-UQwAy9-zg)
 
 ---
-###美团技术团队
+### 美团技术团队
 #### [美团外卖Android平台化架构演进实践](https://mp.weixin.qq.com/s/3cd8zmrFHn149hl-1wIAyQ)
 #### [美团外卖Android Crash治理之路](https://mp.weixin.qq.com/s/FoimQL9XsgnM8gKtsC5jRA)
 #### [美团外卖Android Lint代码检查实践](https://mp.weixin.qq.com/s/PcwqInmmtcTwB9-Kev8PLQ)
@@ -778,7 +778,7 @@
 
 
 ---
-###闲鱼技术
+### 闲鱼技术
 #### [走近科学，探究阿里闲鱼团队通过数据提升Flutter体验的真相](https://mp.weixin.qq.com/s/26kY9rvRxVDkml2UeBnQfw)
 #### [Android Flutter内存初探](https://mp.weixin.qq.com/s/efKCpCtvvHDHUiAsizobBQ)
 #### [深入了解Flutter界面开发](https://mp.weixin.qq.com/s/z2r2OmnY7r7dQrkO8ndkFQ)
@@ -817,7 +817,7 @@
 #### []()
 
 ---
-###字节跳动技术团
+### 字节跳动技术团
 #### [Android自动化的一般方法](https://mp.weixin.qq.com/s/B7o3JSkYI_9c4RivatsZKQ)
 #### [Android中动态替换Application的实现](https://mp.weixin.qq.com/s/CvVD2LfomzmKBjygUeiFEA)
 #### [【转】今日头条算法原理(全)](https://mp.weixin.qq.com/s/udsv2PGWpp5I1qlhfPt35Q)
@@ -828,7 +828,7 @@
 #### [一种极低成本的Android屏幕适配方式](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA)
 
 ---
-###蚂蚁金服
+### 蚂蚁金服
 #### [文章列表](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyMDk2MzUzMQ==&scene=124#wechat_redirect)
 #### [支付宝客户端架构解析](https://mp.weixin.qq.com/s/ePjxcyF3N1vLYvD5dPIjUw)
 
@@ -836,7 +836,7 @@
 
 
 ---
-###淘宝技术
+### 淘宝技术
 #### [Android 整体设计及背后意义](https://mp.weixin.qq.com/s/UfQhAt5XWnADa_y54916hw)
 #### [在淘宝，我如何做好一个项目的启动？](https://mp.weixin.qq.com/s/KvGXLdwie6hJ2BHBoQbzww)
 #### []()
@@ -844,7 +844,7 @@
 
 
 ---
-###贝壳产品技术
+### 贝壳产品技术
 #### [用LiveData实现新的事件总线](https://mp.weixin.qq.com/s/glnc99O9f6WyoARh2v7zTA)
 #### [贝壳找房安卓端用Glide替换Picasso](https://mp.weixin.qq.com/s/kOFRvRANG77qWmz3YSPIfw)
 #### [HashMap源码分析（JDK1.8）](https://mp.weixin.qq.com/s/3iAVIzr2IS5ytDEjTVKoWA)
@@ -858,7 +858,7 @@
 
 
 ---
-###途牛技术中心
+### 途牛技术中心
 #### [途牛APK压缩最佳实践](https://mp.weixin.qq.com/s/t-yAMiRoahY2GN9ZROR2tQ)
 #### [途牛原创 | 聊聊Android中的MVX实践](https://mp.weixin.qq.com/s/0cP8kXbeEujjapzwK_UH3w)
 #### [你知道途牛Android客户端架构是怎么优化的吗？](https://mp.weixin.qq.com/s/CfPlVKElv2SshAbfzHfRhg)
@@ -867,12 +867,12 @@
 
 
 ---
-###墨迹天气TechInfo
+### 墨迹天气TechInfo
 #### [墨迹天气Android端多进程组件化实践](https://mp.weixin.qq.com/s/Xa6pQGdkUgJYdiUnqqmbpA)
 
 
 ---
-###搜狐技术产品
+### 搜狐技术产品
 #### [移动端组件化架构（上）](https://mp.weixin.qq.com/s/i-7xHscOBPGPfbzc40-u_Q)
 #### [移动端组件化架构（下）](https://mp.weixin.qq.com/s/PVim0Al7L-TN62nhwldKHQ)
 #### [十分钟带你入坑Flutter](https://mp.weixin.qq.com/s/f9Ow954gBBK2Qpxj8Ifdxg)
@@ -880,52 +880,52 @@
 
 
 ---
-###携程技术中心
+### 携程技术中心
 #### [干货 | 从智行 Android 项目看组件化架构实践 ](https://mp.weixin.qq.com/s/_v2NMSQmZA9HLVq03AzbWQ)
 
 
 ---
-###驴妈妈技术事业群
+### 驴妈妈技术事业群
 #### [驴妈妈客户端频道页模块化设计思路及实践（公众号）](https://juejin.im/post/5bad0632f265da0ab41e62fe)
 #### [驴妈妈客户端频道页模块化设计思路及实践（掘金）](https://mp.weixin.qq.com/s/J5YhTk5gyTt7Ie5803PeQg)
 
 ---
-###WDApp技术团队
+### WDApp技术团队
 #### [微店的Flutter混合开发组件化与工程化架构实践](https://mp.weixin.qq.com/s/7BAwQgk6MvHArJG3UfP-cg)
 
 
 
 ---
-###58招聘技术团队
+### 58招聘技术团队
 #### [招聘App自动化实践](https://mp.weixin.qq.com/s/ciTP6xq7HuvhZ6FWC5itSQ)
 
 
 ---
-###马蜂窝技术
+### 马蜂窝技术
 #### [Flutter 实现原理及在马蜂窝的跨平台开发实践](https://mp.weixin.qq.com/s/ciTP6xq7HuvhZ6FWC5itSQ)
 
 
 ---
-###网易传媒技术团队
+### 网易传媒技术团队
 #### [网易新闻客户端Flutter混合开发实践](https://mp.weixin.qq.com/s/a0in4DqB8Bay046knkRr1g)
 #### []()
 
 ---
-###随手记技术团队
+### 随手记技术团队
 #### [Android轻量级事件通知方案](https://mp.weixin.qq.com/s/5tIAk1zgHbAe1Jvig2RAlg)
 #### []()
 
 ---
-###百姓网技术团队
+### 百姓网技术团队
 #### [[第24期] 从继承到组合：百姓网 Android App 基于组件化的列表重构](https://mp.weixin.qq.com/s/20m_lArZG1tr2SFqGhtm2w)
 #### []()
 
 ---
-###小赢技术团队
+### 小赢技术团队
 #### [Android组件化架构实践](https://mp.weixin.qq.com/s/Pw7MlnTIjqpngORm2ByK6g)
 
 ---
-###唯医技术团队
+### 唯医技术团队
 #### [[Android]浅谈编译时注解处理](https://mp.weixin.qq.com/s/aw178-OCOYX_6Ua8A9_uQg)
 #### [[WEB]深入浅出HTTPS协议](https://mp.weixin.qq.com/s/4zNoI0n1MND1R-JixoTlWA)
 #### [[Android]架构组件](https://mp.weixin.qq.com/s/LTr0dYr4WRyt_B4yY_9oAg)
