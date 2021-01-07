@@ -1,4 +1,6 @@
-# 学习专栏
+#### [快来看，这个小伙伴把HashMap剖析的只剩渣了](https://mp.weixin.qq.com/s/8lIcCBGzWL0L3yIv4OgfDg)
+#### [论如何优雅地知道OkHttp的请求时间](https://mp.weixin.qq.com/s/YfHPT-nIYtPmLW91zc6Yyg)
+#### [Android网络优化攻略，简单了解一下？](https://mp.weixin.qq.com/s/VHdhbAgg-kO_t-6BP3Z7Sw)
 #### [巧解Android事件分发机制：钓钩模型](https://mp.weixin.qq.com/s/0fVi-fuKmjvBTWKcfC1H7g)
 #### [用烂的LruCache，你真的完全懂了么？](https://mp.weixin.qq.com/s/5hK2JFghfh4JTnxrqBurHg)
 #### [一次Android奇葩的卡屏现象分析](https://mp.weixin.qq.com/s/twvaZXh0JTNIuUTZ2T3JZA)
