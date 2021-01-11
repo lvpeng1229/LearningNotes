@@ -1,3 +1,4 @@
+#### [这一次，就彻底了解OkHttp与Retrofit吧！](https://mp.weixin.qq.com/s/DsWoCXd-qrucW5I1Oxxdlg)
 #### [快来看，这个小伙伴把HashMap剖析的只剩渣了](https://mp.weixin.qq.com/s/8lIcCBGzWL0L3yIv4OgfDg)
 #### [论如何优雅地知道OkHttp的请求时间](https://mp.weixin.qq.com/s/YfHPT-nIYtPmLW91zc6Yyg)
 #### [Android网络优化攻略，简单了解一下？](https://mp.weixin.qq.com/s/VHdhbAgg-kO_t-6BP3Z7Sw)
@@ -94,6 +95,7 @@
 #### [手把手教你Android Debug那些骚技巧！](https://mp.weixin.qq.com/s/yfuolqOM3u8mymgZF5KTvA)
 #### [亲测可用！Intellij IDEA 2020最新激活破解教程来了](https://mp.weixin.qq.com/s/yv8VArFGv3Gjz3iVODD6qg)
 #### [ViewPager懒加载极致优化](https://mp.weixin.qq.com/s/-3yzrmpy7AoX02_rGyGB4A)
+#### [新技术又又又又又又又来了？](https://mp.weixin.qq.com/s/KCI9C4EPcYVJVYriwOqteQ)
 #### [一个Looper.loop()引发的惨案](https://mp.weixin.qq.com/s/bCoMnciqV4CWEeGPnw5nBg)
 #### [“新技术” 又又又又又又来了？](https://mp.weixin.qq.com/s/3uOhBWzvbqmAhm2yRQFFaw)
 #### [“新技术” 又又又又又来了？](https://mp.weixin.qq.com/s/oDHbGnZfATHiPtkTB5clgw)
