@@ -1,4 +1,6 @@
 
+#### [“终于懂了” 系列：Android组件化，全面掌握！](https://mp.weixin.qq.com/s/WSzpJXXocajJjmWgYem3fA)
+#### [kotlin-android-extensions插件也被废弃了？扶我起来](https://mp.weixin.qq.com/s/keR7bO-Nu9bBr5Nhevbe1Q)
 #### [Android 代码规范大全](https://mp.weixin.qq.com/s/IOR1911jtyQfeUOKIwEUwA)
 #### [阿里 ARouter 全面解析，总有你没了解的](https://mp.weixin.qq.com/s/LaEbPaIKu0TNR0ygI-yOSQ)
 #### [使用协程，让网络世界更加美好](https://mp.weixin.qq.com/s/84fSUYQt3T_Fa5B5s5ihvA)
