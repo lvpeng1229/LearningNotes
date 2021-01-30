@@ -1,4 +1,7 @@
 
+#### [一篇小短文，带你了解屏幕刷新背后的故事](https://mp.weixin.qq.com/s/aavPtzbx57cHmpPX6S2SMg)
+#### [爱了爱了！我理解的Android中MVVM架构模式！](https://mp.weixin.qq.com/s/RecyPYCbUxKLCnkvQBjvFg)
+#### [那天有人问我，Android 的事件到底是怎么来的？](https://mp.weixin.qq.com/s/nxiPBMyRzhkU_dwTqnp_rA)
 #### [“终于懂了” 系列：Android组件化，全面掌握！](https://mp.weixin.qq.com/s/WSzpJXXocajJjmWgYem3fA)
 #### [kotlin-android-extensions插件也被废弃了？扶我起来](https://mp.weixin.qq.com/s/keR7bO-Nu9bBr5Nhevbe1Q)
 #### [Android 代码规范大全](https://mp.weixin.qq.com/s/IOR1911jtyQfeUOKIwEUwA)
