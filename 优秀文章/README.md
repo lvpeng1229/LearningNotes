@@ -1,4 +1,7 @@
 
+#### [Activity 的 36 大难点，你会几个？「建议收藏」](https://mp.weixin.qq.com/s/fOOg2-L8uqz6Xyl7VHmThg)
+#### [“终于懂了“系列：Jetpack AAC完整解析，Lifecycle 完全掌握！](https://mp.weixin.qq.com/s/SCNWCz9ZEIOwio9v-Tx0fA)
+#### [一文教你轻松搞定ANR异常捕获](https://mp.weixin.qq.com/s/OadI9zjnmnGXiGZFaQ-fDQ)
 #### [13道 常见的JVM 面试题](https://mp.weixin.qq.com/s/0yME3m7NHt7T3Q0qfUQo8A)
 #### [App极限瘦身姿势: png 打包自动化转换 webp](https://mp.weixin.qq.com/s/X7ss6gLJ3kZbUVpgPn6jAw)
 #### [这可能是ViewPager2滑动冲突最全的处理方案](https://mp.weixin.qq.com/s/KYHFZpx7Mcs9bH0M7zKwvg)
