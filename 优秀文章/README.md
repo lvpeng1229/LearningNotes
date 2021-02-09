@@ -1,4 +1,6 @@
 
+
+#### [GET 和 POST请求的本质区别是什么？原来我一直理解错了](https://mp.weixin.qq.com/s/acIay1pJehIES1gL71Wg8Q)
 #### [Kotlin：协程到底是什么何方神圣？](https://mp.weixin.qq.com/s/ZU9qwum81tk7Q7aYtIBoeg)
 #### [“吹Kotlin协程的，可能吹错了！” 带你真正理解一波!](https://mp.weixin.qq.com/s/mjEVuR7KbRtFs3HTV27wOQ)
 #### [AppCompat发布两年了，还没了解？](https://mp.weixin.qq.com/s/nHGZmzTAioVH9FYEqR1c9Q)
