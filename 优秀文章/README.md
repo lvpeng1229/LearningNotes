@@ -589,3 +589,134 @@
 #### [phoenixsky/fun_android_flutter（产品级Flutter开源项目FunAndroid(WanAndroid客户端）]()
 #### [CCY0122/WanAndroid_Flutter（超完整超漂亮的Flutter版wanAndroid客户端）](https://github.com/CCY0122/WanAndroid_Flutter)
 #### [iceCola7/flutter_wanandroid   （项目基于 Flutter 移动应用框架，采用 Dart 语言编写）](https://github.com/iceCola7/flutter_wanandroid)
+#### [迁移被废弃的Kotlin Android Extensions插件!](https://mp.weixin.qq.com/s/0S9Prw7fyYj2YIO2Vb8RKQ)
+#### [Android 代码混淆，到底做了什么？](https://mp.weixin.qq.com/s/zi3K7lXfSodHj6tUTLKxgg)
+#### [拥有它，XML文件少一半](https://mp.weixin.qq.com/s/CpNAMD0_QKHDmFQmHTeeuA)
+#### [黑科技之卸载Android系统应用！](https://mp.weixin.qq.com/s/qLWzA8Qx-q0pebEZu1gXMw)
+#### [《Android面试题思考与解答》2021年3月刊](https://mp.weixin.qq.com/s/grs3VH2pU3AIYN4RCJa2Dg)
+#### [迁移被废弃的Kotlin Android Extensions插件!](https://mp.weixin.qq.com/s/3d3BrD1LEb2Qx7zfAG-f6g)
+#### [Kotlin + buildSrc：更好的管理Gadle依赖!](https://mp.weixin.qq.com/s/FvPHS-_5sLftUFhUe9Ktcg)
+#### [Span 有多强大？玩转各种文字特效](https://mp.weixin.qq.com/s/ji9MRaMhpVM711lDYL0LFw)
+#### [Github上最好用的Android状态栏、导航栏库!](https://mp.weixin.qq.com/s/mVKFSh5OdGC2JEieAcOwKg)
+#### [7 个你应该知道的Gradle 实用技巧](https://mp.weixin.qq.com/s/LbZfdHA3JpUQa8mU5dKUaA)
+#### [相册适配 Android 11 绕的那些弯路!](https://mp.weixin.qq.com/s/_RhJwM6uadoB7BxLBdRUuQ)
+#### [关于Android代码混淆，你了解多少？](https://mp.weixin.qq.com/s/aWqo1hwEpsz2qdTBpJkAQg)
+#### [进来看看是不是你想要的效果，Android吸顶效果！并有着ViewPager左右切换！](https://mp.weixin.qq.com/s/yQ_486ROW4nGldIVXULUMQ)
+#### [Git常用指令，你还记得多少？](https://mp.weixin.qq.com/s/UqD4f7v2QNK5_s3OZr6fPg)
+#### [Android 点九图机制讲解 - 带你一起踩踩聊天气泡中的坑](https://mp.weixin.qq.com/s/2jqJRKJ-LUhoecuMeOB8uw)
+#### [Android 11 适配指北，你适配了吗？](https://mp.weixin.qq.com/s/vwbnZPAFKg1rMYUkHxpirQ)
+#### [史上最全ConstraintLayout使用详解](https://mp.weixin.qq.com/s/V-jH0rlIUxgkjSbTV2WjrA)
+#### [一起来看看 Android 官推 kotlin-first 的图片加载库！](https://mp.weixin.qq.com/s/oHG1lQAUkluWXq7Mtha4rA)
+#### [Android组件化实战之利用Maven优雅地调试SDK](https://mp.weixin.qq.com/s/MHe04gccj3_TOcyxvJIo7w)
+#### [一起来看看Android官推Kotlin-First的图片加载库](https://mp.weixin.qq.com/s/TmNW5H6EFQHVUYWilnYWgw)
+#### [Android自定义支付密码输入框，光标问题总结！](https://mp.weixin.qq.com/s/jgBcXdVC7ZeI0OSooc4R0g)
+#### [自定义view仿写今日头条点赞动画！](https://mp.weixin.qq.com/s/7XLTKBEfjScZulAiwfMeEQ)
+#### [彻底搞懂Android签名机制](https://mp.weixin.qq.com/s/Y8s8RybYxoDeVWVztbYPpg)
+#### [产品需求：Android 截屏分享](https://mp.weixin.qq.com/s/9iVTGaU9xJwlig6DV-mcpA)
+#### [万字图文，带你学懂Handler和内存屏障](https://mp.weixin.qq.com/s/tbvzs7K5OXIiAKL_DYr20A)
+#### [来看“Android编舞者”怎么编舞](https://mp.weixin.qq.com/s/85yDzZsX1JIwCVcYNB29CA)
+#### [字节跳动抖音 Android 校招三面面经，已拿 offer](https://mp.weixin.qq.com/s/l1nxpl9JSVV1_xPcZjGhGA)
+#### [又又又又攒了一个月的Android面试题](https://mp.weixin.qq.com/s/xO_gr6ic1g_EuEMz82yUeg)
+#### [分享一波 Android 性能优化的总结！](https://mp.weixin.qq.com/s/MfIT_sV0xwt1UnGQWXCJIA)
+#### [一文了解AQS(AbstractQueuedSynchronizer)](https://mp.weixin.qq.com/s/z0SVcjdxaoGp_MAEvjSD4g)
+#### [RecyclerView 性能优化：把加载表项耗时减半（1）](https://mp.weixin.qq.com/s/MNUDGJRDI6tVdLsLtVaIBA)
+#### [Android 布局优化真的难，从入门到放弃](https://mp.weixin.qq.com/s/2782Upn8BsHn6QzM3A_LKQ)
+#### [全面复盘Android开发者容易忽视的Backup功能](https://mp.weixin.qq.com/s/xClz0CaDZiifzpte2PjK8w)
+#### [仿微信做个极速二维码扫描功能](https://mp.weixin.qq.com/s/jYEwgXX-aBjGmMvdebJA3w)
+#### [“by” the way，探索Kotlin的委托机制](https://mp.weixin.qq.com/s/x6tTl2_ns6oIkenq92vcbA)
+#### [引入Jetpack架构后，你的App会发生哪些变化？（建议收藏）](https://mp.weixin.qq.com/s/QsDQ9jvg4azLVHP-I9fGGw)
+#### [扫盲：策略模式，成事儿还需要策略](https://mp.weixin.qq.com/s/byGqoawfhkJUmgdQYsA1xA)
+#### [两万字长文总结，梳理 Java 入门进阶哪些事](https://mp.weixin.qq.com/s/DcxgkvNn0191hjiBcc1ZRA)
+#### [Docker，牛逼！](https://mp.weixin.qq.com/s/cj-xIdp49dkvtCZ2jTjJDQ)
+#### [使用协程，让网络世界更加美好](https://mp.weixin.qq.com/s/84fSUYQt3T_Fa5B5s5ihvA)
+#### [阿里 ARouter 全面解析，总有你没了解的](https://mp.weixin.qq.com/s/LaEbPaIKu0TNR0ygI-yOSQ)
+#### [一个涵盖大小厂很棒的面试总结](https://mp.weixin.qq.com/s/QU8eRi1h5BPSP8LFPPlMWg)
+#### [这交互炸了系列，炫酷跳动的闪屏Logo标题](https://mp.weixin.qq.com/s/T2FYhz1KbzXVvmh65nz94g)
+#### [“终于懂了” 系列：Android组件化，全面掌握！](https://mp.weixin.qq.com/s/WSzpJXXocajJjmWgYem3fA)
+#### [那天有人问我，Android 的事件到底是怎么来的？](https://mp.weixin.qq.com/s/nxiPBMyRzhkU_dwTqnp_rA)
+#### [爱了爱了！我理解的Android中MVVM架构模式！](https://mp.weixin.qq.com/s/RecyPYCbUxKLCnkvQBjvFg)
+#### [那天有人问我，Android 的事件到底是怎么来的？](https://mp.weixin.qq.com/s/nxiPBMyRzhkU_dwTqnp_rA)
+#### [一篇小短文，带你了解屏幕刷新背后的故事](https://mp.weixin.qq.com/s/aavPtzbx57cHmpPX6S2SMg)
+#### [App极限瘦身姿势: png 打包自动化转换 webp](https://mp.weixin.qq.com/s/X7ss6gLJ3kZbUVpgPn6jAw)
+#### [这可能是ViewPager2滑动冲突最全的处理方案](https://mp.weixin.qq.com/s/KYHFZpx7Mcs9bH0M7zKwvg)
+#### [Activity 的 36 大难点，你会几个？「建议收藏」](https://mp.weixin.qq.com/s/fOOg2-L8uqz6Xyl7VHmThg)
+#### [“终于懂了“系列：Jetpack AAC完整解析，Lifecycle 完全掌握！](https://mp.weixin.qq.com/s/SCNWCz9ZEIOwio9v-Tx0fA)
+#### [一文教你轻松搞定ANR异常捕获](https://mp.weixin.qq.com/s/OadI9zjnmnGXiGZFaQ-fDQ)
+#### [相册适配 Android 11 绕的那些弯路](https://mp.weixin.qq.com/s/vxx39G91Ad96qQeFfkUcAQ)
+#### [这样学习View的测量算法，真的很有趣哦](https://mp.weixin.qq.com/s/Gi0aTXTObak0VWlniwk4oQ)
+#### [如何实时监控Android 性能相关？推荐一个开源库](https://mp.weixin.qq.com/s/ity4H63vU1cZSGs-Vy8Gjw)
+#### [京东数科二面：常见的 IO 模型有哪些？Java 中 BIO、NIO、AIO 的区别？](https://mp.weixin.qq.com/s/mP8r2WMgLTuxcT8yV10yZA)
+#### [AppCompat发布两年了，还没了解？](https://mp.weixin.qq.com/s/nHGZmzTAioVH9FYEqR1c9Q)
+#### [Kotlin：协程到底是什么何方神圣？](https://mp.weixin.qq.com/s/ZU9qwum81tk7Q7aYtIBoeg)
+#### [“吹Kotlin协程的，可能吹错了！” 带你真正理解一波!](https://mp.weixin.qq.com/s/mjEVuR7KbRtFs3HTV27wOQ)
+#### [处理被废弃的ButterKnife和kotlin-android-extensions有妙招](https://mp.weixin.qq.com/s/7vwrG3BP2G4mFNb5vwaTfQ)
+#### [《Android面试题思考与解答》2021年1月刊](https://mp.weixin.qq.com/s/ac8G6lHPGVUyTNuwCEQ0Yw)
+#### [嗯？发现Kotlin一个神奇的bug](https://mp.weixin.qq.com/s/KRJDy4EA0Hq9pHfJnoYrWA)
+#### [GET 和 POST请求的本质区别是什么？原来我一直理解错了](https://mp.weixin.qq.com/s/acIay1pJehIES1gL71Wg8Q)
+#### [盘点 Github 上的10款高仿 大厂APP 项目！](https://mp.weixin.qq.com/s/uTai4Umzxdz1GQDSnfVWYg)
+#### [面试官装逼失败之：Activity的启动模式](https://mp.weixin.qq.com/s/gsE8aOaNZ4Mj6R_aDQBf9Q)
+#### [看完感觉我RecyclerView白学了！](https://mp.weixin.qq.com/s/Qm8HWRG0kwAkOvNibHsK6Q)
+#### [“终于懂了“系列：Jetpack完整解析，ViewModel 全面掌握！](https://mp.weixin.qq.com/s/I38ZvOyyzlJ9q2BRHmBsbw)
+#### [ConcurrentHashMap竟然还能挖出这些东西！](https://mp.weixin.qq.com/s/GPYUA1Ff3kpQgurIDLr3rA)
+#### [舒服了！Kotlin协程优雅的与Retrofit缠绵](https://mp.weixin.qq.com/s/3jW7QGU_vEWP65hNY0-IMw)
+#### [并发编程笔记，带你降服面试官](https://mp.weixin.qq.com/s/LxE_XJB2zGyo7HDNg7MhxQ)
+#### [Android高级自定义，手势滑动缩放/渐变填充/曲线折线图表](https://mp.weixin.qq.com/s/wgXpDD9O73MYqKViLKq0yQ)
+#### [用LiveData打造EventBus有很多问题？拷贝代码干！](https://mp.weixin.qq.com/s/P85hN-hk-XeSN5b2rHILNg)
+#### [自己用Flutter撸一个天气APP](https://mp.weixin.qq.com/s/fPPsDM5P0csgJ0EVq7kVkA)
+#### [带你全面了解 Flutter，它好在哪里？它的坑在哪里？ 应该怎么学？](https://mp.weixin.qq.com/s/HJO1dUi45XwyN3TTWoeWiQ)
+#### [玩转自定义 View，你必须搞清楚这些：Style，Theme，Attr，Styleable，TypedArray](https://mp.weixin.qq.com/s/Vo8MXlHF5ur2QsZxWAccIg)
+#### [“扔掉 RxJava”，看协程与Retrofit合体！](https://mp.weixin.qq.com/s/Q_3hcxdFLmj-r3fyI5aGFQ)
+#### [Android 启动优化（三）- AnchorTask 开源了](https://mp.weixin.qq.com/s/YRUpf9jKEwIHV0A4FqltXg)
+#### [Hi~重新认识一下Drawable！](https://mp.weixin.qq.com/s/lVUnHbQFCNrCZbaDMoLAcw)
+#### [一看就会！协程原来是这样啊~](https://mp.weixin.qq.com/s/nXfweTaOCpm6Bj34rW-wLA)
+#### [难得的Android 启动优化好文！](https://mp.weixin.qq.com/s/LU5G5GT4rTtr2Rsnx4SOQQ)
+#### [Android中指纹识别的使用](https://mp.weixin.qq.com/s/Og_RKzNfOK_G--3Djco7mg)
+#### [难得的Android 启动优化好文！](https://mp.weixin.qq.com/s/cxvmTtjau7Wy9_CXyshk2g)
+#### [Android中指纹识别的使用](https://mp.weixin.qq.com/s/Og_RKzNfOK_G--3Djco7mg)
+#### [难得的Android 启动优化好文！](https://mp.weixin.qq.com/s/cxvmTtjau7Wy9_CXyshk2g)
+#### [“团队禁止使用Lombok”，被我狠狠的反驳了！](https://mp.weixin.qq.com/s/CVAC4CPc0vLUknwurUUbSw)
+#### [Android实现三角形气泡效果方式汇总](https://mp.weixin.qq.com/s/ZjMeaGVpuROK3UtRaTFqow)
+#### [什么时候该用约束布局ConstraintLayout？](https://mp.weixin.qq.com/s/i_HjK6KzDLj4lur9qkanGg)
+#### [揭秘Kotlin协程中的CoroutineContext](https://mp.weixin.qq.com/s/UETNzqcHgQ4U_HTycdiAMw)
+#### [Android各版本迭代改动与适配集合！](https://mp.weixin.qq.com/s/OFfA2oYn6EnJDVASbSBwZA)
+#### [从责任链模式看Android事件分发](https://mp.weixin.qq.com/s/sSPFz3E5gncYiMMFtF_xlg)
+#### [今日头条 ANR 优化实践！](https://mp.weixin.qq.com/s/ZXB76gKhAa6eS27dJP0QBA)
+#### [再谈Android各种Context的前世今生！](https://mp.weixin.qq.com/s/uoAeuJTqjBvM7zGgeEgdRA)
+#### [Jetpack新成员，Paging3从吐槽到真香](https://mp.weixin.qq.com/s/qBxhtgjLluUZsHCinNHUAQ)
+#### [请务必记记这200条Git命令，建议收藏牢记！](https://mp.weixin.qq.com/s/-GM2_wklRyv-j1Go1BbEpw)
+#### [一起来规范Android应用通知渠道吧！](https://mp.weixin.qq.com/s/CVcV2aknbl2LZDUqFtlTRA)
+#### [响应式编程|Kotlin与LiveData扩展函数实践技巧](https://mp.weixin.qq.com/s/8r2DVY_pTe5Y0QTLIIMAow)
+#### [新技又又又又又叒来了？](https://mp.weixin.qq.com/s/TL0zjbApXgX1Cu7g4baI_w)
+#### [推荐5个Flutter重磅开源项目！](https://mp.weixin.qq.com/s/CZdQvnWp8Y-R9HZreCRzcQ)
+#### [阿里的ARouter，问几个你“不会”的问题！](https://mp.weixin.qq.com/s/vYsVJI1SoT4gaiMGoEkx-Q)
+#### [从构建工具看 Android APK 编译打包流程](https://mp.weixin.qq.com/s/6Cb6MqV9GQG60hBltss61A)
+#### []()
+#### []()
+#### []()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
