@@ -332,6 +332,9 @@ public:
 
 	//存放编号 以及对应的 具体选手 容器
 	map<int, Speaker> m_Speaker;
+
+  //存放比赛轮数
+	int m_Index;
 ```
 
 
