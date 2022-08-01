@@ -1,6 +1,5 @@
 ![image](https://github.com/lvpeng1229/LearningNotes/blob/master/Image/android_029.jpg)
 
-
 # 学习专栏
 ## [设计模式之美(极客时间)](http://note.youdao.com/noteshare?id=e0037556c739518ffe16418d09471e46)
 ## [Android 工程师进阶 34 讲 (拉勾)](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=67#/content)
@@ -95,15 +94,3 @@
 ## [哆啦A梦 (米熊)]()
 
 ## [樱桃小丸子 (米熊)]()
-
-
-
-
-
-
-
-
-
-
-
-
